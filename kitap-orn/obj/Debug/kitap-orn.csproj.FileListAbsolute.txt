@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kitap-orn\kitap-orn\bin\Debug\kitap-orn.exe.config
+C:\Users\User\source\repos\kitap-orn\kitap-orn\bin\Debug\kitap-orn.exe
+C:\Users\User\source\repos\kitap-orn\kitap-orn\bin\Debug\kitap-orn.pdb
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap_orn.Form1.resources
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap_orn.Properties.Resources.resources
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.exe
+C:\Users\User\source\repos\kitap-orn\kitap-orn\obj\Debug\kitap-orn.pdb
